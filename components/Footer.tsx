@@ -65,7 +65,7 @@ export default function Footer() {
         </ExternalLink>
       </p>
       <p className="text-gray-800 dark:text-gray-200 text-center w-full">
-        Copyright © {year}&nbsp;
+        {year}&nbsp;
         <ExternalLink href={'https://github.com/gabbo-dam'}>
           Gabriel
         </ExternalLink>
